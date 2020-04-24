@@ -11,7 +11,7 @@ public class GitPrac {
 		System.out.println("난 조장");
 		System.out.println("난 조장");
 		
-		System.out.println("11111111");
+		System.out.println("11111111"); 
 	}
 
 }
